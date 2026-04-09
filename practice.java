@@ -23,6 +23,4 @@ public class practice {
             }
         }
     }
-}git add practice.java
-git commit -m "adding practice file"
-git push -u github master
+}
